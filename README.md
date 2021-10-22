@@ -2,7 +2,7 @@
 
 ### How do I approach designing software?
 
-Software design is a complicated topic since I find it hard to fully define.  The requirements for this project were thoroughly outlined by the project rubrics, and I simply met those requirements in a personalized way.  It doesn't feel like I designed anything, and I didn't need to outline a plan to follow throughout this project.  I have done so in other projects, but this one didn't have all that much design involved at all.  I suppose I designed the scene and the nature of the program by creating a vision of the end result and taking decided steps towards that vision all the while.  
+Software design is a complicated topic since I find it hard to fully define.  The requirements for this project were thoroughly outlined by the project rubrics, and I simply met those requirements in a personalized way.  It doesn't feel like I designed anything, and I didn't need to outline a plan to follow throughout this project.  I have done so in other projects, but this one didn't have all that much design involved.  I suppose I designed the scene and the nature of the program by creating a vision of the end result and taking decided steps towards that vision all the while.  My general aproach to software design involves defining the requirements and making a plan to meet those requirements.  Accounting for how features function in a vacuum and also in conjunction with each other is the most important aspect of software design in my experience.  
 
 ### How do I approach developing programs?
 
